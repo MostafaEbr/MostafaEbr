@@ -33,11 +33,11 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
   <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-000?style=flat-square" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img alt="Firestore" src="https://img.shields.io/badge/-Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-<img alt="Firebase Realtime DB" src="https://img.shields.io/badge/-Realtime%20Database-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img alt="FCM" src="https://img.shields.io/badge/-Firebase%20Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
   <!-- Realtime & Communication -->
+  <img alt="Firebase Realtime DB" src="https://img.shields.io/badge/-Realtime%20Database-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  
   <img alt="Pusher" src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square" />
   <img alt="Agora" src="https://img.shields.io/badge/-Agora-099DFD?style=flat-square" />
   <img alt="Zego" src="https://img.shields.io/badge/-Zego-FF4F00?style=flat-square" />
@@ -57,7 +57,7 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
   <!-- Tools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-0A66C2?style=flat-square" />
-  <img alt="Fastlane" src="https://img.shields.io/badge/-Fastlane-00F200?style=flat-square" />
+  <img alt="Firebase Distribution" src="https://img.shields.io/badge/-App%20Distribution%20(Firebase)-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
   <!-- Frontend Extras -->
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
