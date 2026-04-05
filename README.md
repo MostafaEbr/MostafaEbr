@@ -24,8 +24,10 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
 
   <!-- Architecture & State -->
-  <img alt="Bloc" src="https://img.shields.io/badge/-Bloc/Cubit-02569B?style=flat-square" />
-  <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean%20Architecture-000?style=flat-square" />
+  <img alt="State Management" src="https://img.shields.io/badge/-Advanced%20State%20Management-000?style=flat-square" />
+
+  <img alt="Bloc/Cubit" src="https://img.shields.io/badge/-Bloc%20%2F%20Cubit-02569B?style=flat-square" />
+<img alt="GetX" src="https://img.shields.io/badge/-GetX-8A2BE2?style=flat-square" />
   <img alt="SOLID" src="https://img.shields.io/badge/-SOLID%20Principles-6DB33F?style=flat-square" />
   <img alt="Design Patterns" src="https://img.shields.io/badge/-Design%20Patterns-FF6F00?style=flat-square" />
 
