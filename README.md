@@ -39,7 +39,6 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
 
   <!-- Realtime & Communication -->
   <img alt="Pusher" src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square" />
-  <img alt="Pusher" src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square" />
   <img alt="Agora" src="https://img.shields.io/badge/-Agora-099DFD?style=flat-square" />
   <img alt="Zego" src="https://img.shields.io/badge/-Zego-FF4F00?style=flat-square" />
 
