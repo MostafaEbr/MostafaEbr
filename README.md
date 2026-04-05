@@ -98,6 +98,10 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
       <td><b>SMU Apps</b></td>
       <td>Restaurant ecosystem (Customer, Waiter, Copilot)</td>
     </tr>
+    <tr>
+      <td><b>Zozo Store</b></td>
+      <td>Multi-tenant e-commerce platform with company-based product management</td>
+    </tr>
   </tbody>
 </table>
 
