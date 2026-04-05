@@ -28,15 +28,17 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
   <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean%20Architecture-000?style=flat-square" />
   <img alt="SOLID" src="https://img.shields.io/badge/-SOLID%20Principles-6DB33F?style=flat-square" />
   <img alt="Design Patterns" src="https://img.shields.io/badge/-Design%20Patterns-FF6F00?style=flat-square" />
-  <img alt="Design Patterns" src="https://img.shields.io/badge/-Design%20Patterns-FF6F00?style=flat-square" />
 
   <!-- Backend & APIs -->
   <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-000?style=flat-square" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="FCM" src="https://img.shields.io/badge/-FCM%20Notifications-FFCA28?style=flat-square" />
+<img alt="Firestore" src="https://img.shields.io/badge/-Cloud%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img alt="Firebase Realtime DB" src="https://img.shields.io/badge/-Realtime%20Database-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img alt="FCM" src="https://img.shields.io/badge/-Firebase%20Messaging-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
   <!-- Realtime & Communication -->
+  <img alt="Pusher" src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square" />
   <img alt="Pusher" src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square" />
   <img alt="Agora" src="https://img.shields.io/badge/-Agora-099DFD?style=flat-square" />
   <img alt="Zego" src="https://img.shields.io/badge/-Zego-FF4F00?style=flat-square" />
