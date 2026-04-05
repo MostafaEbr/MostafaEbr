@@ -28,6 +28,7 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
   <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean%20Architecture-000?style=flat-square" />
   <img alt="SOLID" src="https://img.shields.io/badge/-SOLID%20Principles-6DB33F?style=flat-square" />
   <img alt="Design Patterns" src="https://img.shields.io/badge/-Design%20Patterns-FF6F00?style=flat-square" />
+  <img alt="Design Patterns" src="https://img.shields.io/badge/-Design%20Patterns-FF6F00?style=flat-square" />
 
   <!-- Backend & APIs -->
   <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-000?style=flat-square" />
@@ -41,6 +42,7 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
   <img alt="Zego" src="https://img.shields.io/badge/-Zego-FF4F00?style=flat-square" />
 
   <!-- Local Storage -->
+  <img alt="ObjectBox" src="https://img.shields.io/badge/-ObjectBox-4CAF50?style=flat-square" />
   <img alt="Hive" src="https://img.shields.io/badge/-Hive-F7C800?style=flat-square" />
   <img alt="SharedPreferences" src="https://img.shields.io/badge/-SharedPrefs-4CAF50?style=flat-square" />
   <img alt="Secure Storage" src="https://img.shields.io/badge/-Secure%20Storage-607D8B?style=flat-square" />
