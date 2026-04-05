@@ -19,18 +19,45 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
 
 <h3>🛠️ Things I code with</h3>
 <p>
+  <!-- Core -->
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img alt="Bloc" src="https://img.shields.io/badge/-Bloc-02569B?style=flat-square" />
-  <img alt="GetX" src="https://img.shields.io/badge/-GetX-purple?style=flat-square" />
+
+  <!-- Architecture & State -->
+  <img alt="Bloc" src="https://img.shields.io/badge/-Bloc/Cubit-02569B?style=flat-square" />
+  <img alt="Clean Architecture" src="https://img.shields.io/badge/-Clean%20Architecture-000?style=flat-square" />
+  <img alt="SOLID" src="https://img.shields.io/badge/-SOLID%20Principles-6DB33F?style=flat-square" />
+  <img alt="Design Patterns" src="https://img.shields.io/badge/-Design%20Patterns-FF6F00?style=flat-square" />
+
+  <!-- Backend & APIs -->
   <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-000?style=flat-square" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="FCM" src="https://img.shields.io/badge/-FCM%20Notifications-FFCA28?style=flat-square" />
+
+  <!-- Realtime & Communication -->
   <img alt="Pusher" src="https://img.shields.io/badge/-Pusher-300D4F?style=flat-square" />
   <img alt="Agora" src="https://img.shields.io/badge/-Agora-099DFD?style=flat-square" />
   <img alt="Zego" src="https://img.shields.io/badge/-Zego-FF4F00?style=flat-square" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
+
+  <!-- Local Storage -->
+  <img alt="Hive" src="https://img.shields.io/badge/-Hive-F7C800?style=flat-square" />
+  <img alt="SharedPreferences" src="https://img.shields.io/badge/-SharedPrefs-4CAF50?style=flat-square" />
+  <img alt="Secure Storage" src="https://img.shields.io/badge/-Secure%20Storage-607D8B?style=flat-square" />
+
+  <!-- Advanced Features -->
+  <img alt="Deep Linking" src="https://img.shields.io/badge/-Deep%20Linking-673AB7?style=flat-square" />
+  <img alt="Geolocation" src="https://img.shields.io/badge/-Geolocation-2196F3?style=flat-square" />
+  <img alt="Payment Integration" src="https://img.shields.io/badge/-Payments-009688?style=flat-square" />
+  <img alt="Multi Tenant" src="https://img.shields.io/badge/-Multi--Tenant%20Apps-795548?style=flat-square" />
+
+  <!-- Tools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-0A66C2?style=flat-square" />
+  <img alt="Fastlane" src="https://img.shields.io/badge/-Fastlane-00F200?style=flat-square" />
+
+  <!-- Frontend Extras -->
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-42b883?style=flat-square&logo=vue.js&logoColor=white" />
 </p>
 
 <h3>📱 Featured Projects</h3>
@@ -88,7 +115,7 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
   <a href="https://github.com/your-username" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/mostafa-shabana/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
