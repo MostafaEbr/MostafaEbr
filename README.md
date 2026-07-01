@@ -11,7 +11,7 @@ I'm <b>Mostafa Ibrahim</b>, Senior Flutter Developer from
 
 <h3>🚀 About Me</h3>
 <p>
-💼 Senior Flutter Developer with +4 years experience </br>
+💼 Senior Flutter Developer with +5 years experience </br>
 📱 Specialized in building scalable mobile apps (iOS & Android) </br>
 🔥 Passionate about clean architecture & performance </br>
 🧠 "A day wasted is a day when you didn’t feed your brain"
